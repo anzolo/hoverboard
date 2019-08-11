@@ -1,7 +1,7 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
+    "name": "GDG Tyumen",
+    "twitter": "gdgtmn",
     "blog": "https://medium.com/gdg-lviv",
     "url": "http://lviv.gdg.org.ua/"
   },
@@ -15,7 +15,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFest19",
   "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
@@ -114,10 +114,10 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Tyumen technopark",
+    "city": "Tyumen",
+    "short": "Tyumen, Russia",
+    "address": "152, Respublic street, Tyumen, Russia",
     "pointer": {
       "latitude": 49.809841,
       "longitude": 23.972805,
