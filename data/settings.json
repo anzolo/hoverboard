@@ -2,8 +2,8 @@
   "organizer": {
     "name": "GDG Tyumen",
     "twitter": "gdgtmn",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "blog": "http://tmncode.cio72.ru/#rec43745737",
+    "url": "http://tmncode.cio72.ru/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -127,7 +127,7 @@
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Best place for IT-conference"
   },
   "mediaQueries": {
     "xs": {
@@ -149,23 +149,15 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/ru-RU/GDG-Tyumen/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.facebook.com/tmncode/"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCEonyRLJQvLVuwvZz1laC3w"
       }
     ],
     "share": [
@@ -179,7 +171,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "devfest@cio72.ru",
   "signInProviders": {
     "providersData": [
       {
