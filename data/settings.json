@@ -104,20 +104,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Tyumen technopark",
+    "name": "Tyumen's technopark",
     "city": "Tyumen",
     "short": "Tyumen, Russia",
     "address": "152, Respublic street, Tyumen, Russia",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 57.137826,
+      "longitude": 65.567139,
+      "zoom": 17
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 57.137826,
+      "longitude": 65.567139
     },
-    "description": "Best place for IT-conference"
+    "description": "Tyumen's technopark"
   },
   "mediaQueries": {
     "xs": {
