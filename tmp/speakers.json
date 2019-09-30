@@ -1,0 +1,89 @@
+{
+  "alexander_smirnov": {
+    "title": "CTO",
+    "order": 1,
+    "featured": true,
+    "shortBio": "Google Developer Expert",
+    "company": "PapaJobs",
+    "country": "Moscow, Russia",
+    "name": "Alexander Smirnov"
+  },
+  "grigory_petrov": {
+    "title": "Head of Developer Relations",
+    "order": 1,
+    "featured": true,
+    "shortBio": "He began his career as a software engineer in the late 90's: first as a developer, then as a development manager. He was involved in the creation of Radmin and Advanced IP Scanner, promoted the interactive television NPTV and programmable telephony Voximplant. An amateur generalist, neurophysiologist, organizes development, conferences and hackathons. Now - Head of Developer Relations in Evrone.",
+    "company": "Evron",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2Fgrigory_petrov.jpg?alt=media&token=eb540005-3030-4150-8f69-208a3688613e",
+    "socials": [
+      {
+        "link": "https://www.facebook.com/grigoryvp",
+        "icon": "facebook",
+        "name": "Facebook"
+      }
+    ],
+    "name": "Grigory Petrov",
+    "country": "Moscow, Russia",
+    "bio": "He began his career as a software engineer in the late 90's: first as a developer, then as a development manager. He was involved in the creation of Radmin and Advanced IP Scanner, promoted the interactive television NPTV and programmable telephony Voximplant. An amateur generalist, neurophysiologist, organizes development, conferences and hackathons. Now - Head of Developer Relations in Evrone."
+  },
+  "vladimir_daron": {
+    "title": "CEO",
+    "order": 2,
+    "featured": true,
+    "shortBio": "",
+    "company": "WebAnt",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2FVladimir%20Daron%202.jpg?alt=media&token=d7e22625-2079-423a-8191-7a6746e3609b",
+    "socials": [],
+    "name": "Vladimir Daron",
+    "country": "Rostov-na-Donu, Russia",
+    "bio": ""
+  },
+  "tyumbit_speaker": {
+    "title": "",
+    "order": 3,
+    "featured": true,
+    "shortBio": "",
+    "company": "Tyumbit",
+    "photoUrl": "",
+    "socials": [],
+    "name": "Speaker from Tyumbit",
+    "country": "Tyumen, Russia",
+    "bio": ""
+  },
+  "lamoda_speaker": {
+    "title": "",
+    "order": 4,
+    "featured": true,
+    "shortBio": "",
+    "company": "Lamoda",
+    "photoUrl": "",
+    "socials": [],
+    "name": "Speaker from Lamoda",
+    "country": "Moscow, Russia",
+    "bio": ""
+  },
+  "hayk_sargsyan": {
+    "title": "CTO",
+    "order": 5,
+    "featured": true,
+    "shortBio": "",
+    "company": "Yula",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2FHayk%20Sargsyan.jpg?alt=media&token=431eebec-e6fe-46b0-98c1-f14988a9670f",
+    "socials": [],
+    "name": "Hayk Sargsyan",
+    "country": "Moscow, Russia",
+    "bio": ""
+  },
+  "wrike_speaker": {
+    "title": "Dev manager",
+    "order": 6,
+    "featured": true,
+    "shortBio": "",
+    "company": "Wrike",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2Fwrike_speaker.jpeg?alt=media&token=faef8656-cc09-4bdc-8cd5-061e82a84e03",
+    "socials": [],
+    "name": "Speaker from Wrike",
+    "country": "Saint Petersburg, Russia",
+    "bio": ""
+  }
+}

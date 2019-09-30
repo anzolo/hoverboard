@@ -1,0 +1,73 @@
+{
+  "101": {
+    "tags": ["Cloud", "Backend"],
+    "speakers": ["grigory_petrov"],
+    "title": "Python and Network: REST, JSON, GraphQL or gRPC?",
+    "language": "Russian",
+    "description": "Most Python applications start their network communication with REST. As the development progresses, the developer has to answer small but important questions: how to transfer date and time, large amounts of data, provide authorization and so on. Network communication in today's backend is a lot of competing protocols, standards and approaches. We have \"REST\", which each developer implements in its own way, there are overlapping JSON Schema and Open API, there is JSON API, GraphQL, gRPC and much more. In the speech I will talk about modern approaches of Python backend applications communication with each other and the frontend, what difficulties we are fighting against and what is now considered Pythonic.",
+    "complexity": "Intermediate"
+  },
+  "102": {
+    "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+    "icon": "registration",
+    "title": "Registration and welcome coffee"
+  },
+  "103": {
+    "title": "Keynote",
+    "description": "Tech geek talk about non-tech thing"
+  },
+  "104": {
+    "tags": ["Android", "Mobile"],
+    "speakers": ["alexander_smirnov"],
+    "title": "Topic will be soon...",
+    "language": "Russian",
+    "description": "Loading... :)"
+  },
+  "105": {
+    "speakers": ["tyumbit_speaker"],
+    "title": "Topic will be soon...",
+    "language": "Russian",
+    "description": "Loading... :)"
+  },
+  "106": {
+    "tags": ["Cloud", "DevOps"],
+    "speakers": ["vladimir_daron"],
+    "title": "Topic will be soon...",
+    "language": "Russian",
+    "description": "Loading... :)"
+  },
+  "107": {
+    "icon": "lunch",
+    "title": "Lunch",
+    "description": "Foooooooood!"
+  },
+  "108": {
+    "tags": ["Management", "HR"],
+    "speakers": ["lamoda_speaker"],
+    "title": "Topic will be soon...",
+    "language": "Russian",
+    "description": "Loading... :)"
+  },
+  "109": {
+    "title": "We're looking for a speaker all over the world ;)",
+    "description": "If you want to be a speaker fill the form (https://www.papercall.io/gdg-devfest-tyumen-2019)"
+  },
+  "110": {
+    "tags": ["Backend", "Database"],
+    "speakers": ["hayk_sargsyan"],
+    "title": "Topic will be soon...",
+    "language": "Russian",
+    "description": "Loading... :)"
+  },
+  "111": {
+    "tags": ["Management"],
+    "speakers": ["wrike_speaker"],
+    "title": "How to lead leads",
+    "language": "Russian",
+    "description": "Topic divided on four main steps of building the lead. Briefly describing those four steps. Step 1: To start with, who is the lead? Lead is a manager of tactical work; What are the human characteristics and skills required for lead; Important moment about nominating great developers to leads. Step 2: How to start working as a lead or “inauguration”. Building win-win strategy; Situational leadership as a way to lead for those who is newbie in that; Figuring out the scope of responsibility (the lead mission); Setup measurable test period. Step 3: The process of lead job or “moving”. 1:1; Keep on track; Three main points of contact to grow successful lead. Step 4: What do to next and how to grow. Skill matrix; Books; Feedback"
+  },
+  "112": {
+    "title": "Workshop",
+    "description": "If you can to lead the super-practice workshop, fill the form (https://www.papercall.io/gdg-devfest-tyumen-2019)"
+  }
+}
