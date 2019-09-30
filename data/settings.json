@@ -16,13 +16,23 @@
     "locale": "en-US"
   },
   "hashtag": "DevFest19",
-  "disabledSchedule": true,
+  "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
     {
       "route": "home",
       "permalink": "/",
       "label": "Home"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/",
+      "label": "Speakers"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Schedule"
     },
     {
       "route": "team",
