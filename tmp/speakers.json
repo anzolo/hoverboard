@@ -1,20 +1,23 @@
 {
   "alexander_smirnov": {
-    "title": "CTO",
+    "socials": [
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/smirnov.alexandr",
+        "icon": "facebook"
+      }
+    ],
+    "name": "Alexander Smirnov",
+    "country": "Moscow, Russia",
+    "bio": "He has extensive experience in developing mobile applications in the B2B and B2C segments: finance, newspaper clients, government services and taxi applications. He is an active speaker and participant of Russian technical conferences. Solves problems, writes code, loves people.",
+    "title": "Head of Mobile",
     "order": 1,
     "featured": true,
-    "shortBio": "Google Developer Expert",
-    "company": "PapaJobs",
-    "country": "Moscow, Russia",
-    "name": "Alexander Smirnov"
+    "shortBio": "He has extensive experience in developing mobile applications in the B2B and B2C segments: finance, newspaper clients, government services and taxi applications. He is an active speaker and participant of Russian technical conferences. Solves problems, writes code, loves people.",
+    "company": "Raiffeisen Bank, MOSDROID, GDE",
+    "photoUrl": "https://secure.gravatar.com/avatar/39e633d7f0ca0e60d1877fad7a1c7467?s=500"
   },
   "grigory_petrov": {
-    "title": "Head of Developer Relations",
-    "order": 1,
-    "featured": true,
-    "shortBio": "He began his career as a software engineer in the late 90's: first as a developer, then as a development manager. He was involved in the creation of Radmin and Advanced IP Scanner, promoted the interactive television NPTV and programmable telephony Voximplant. An amateur generalist, neurophysiologist, organizes development, conferences and hackathons. Now - Head of Developer Relations in Evrone.",
-    "company": "Evron",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2Fgrigory_petrov.jpg?alt=media&token=eb540005-3030-4150-8f69-208a3688613e",
     "socials": [
       {
         "link": "https://www.facebook.com/grigoryvp",
@@ -24,66 +27,132 @@
     ],
     "name": "Grigory Petrov",
     "country": "Moscow, Russia",
-    "bio": "He began his career as a software engineer in the late 90's: first as a developer, then as a development manager. He was involved in the creation of Radmin and Advanced IP Scanner, promoted the interactive television NPTV and programmable telephony Voximplant. An amateur generalist, neurophysiologist, organizes development, conferences and hackathons. Now - Head of Developer Relations in Evrone."
-  },
-  "vladimir_daron": {
-    "title": "CEO",
+    "bio": "He began his career as a software engineer in the late 90's: first as a developer, then as a development manager. He was involved in the creation of Radmin and Advanced IP Scanner, promoted the interactive television NPTV and programmable telephony Voximplant. An amateur generalist, neurophysiologist, organizes development, conferences and hackathons. Now - Head of Developer Relations in Evrone.",
+    "title": "Head of Developer Relations",
     "order": 2,
     "featured": true,
+    "shortBio": "He began his career as a software engineer in the late 90's: first as a developer, then as a development manager. He was involved in the creation of Radmin and Advanced IP Scanner, promoted the interactive television NPTV and programmable telephony Voximplant. An amateur generalist, neurophysiologist, organizes development, conferences and hackathons. Now - Head of Developer Relations in Evrone.",
+    "company": "Evron",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2Fgrigory_petrov.jpg?alt=media&token=eb540005-3030-4150-8f69-208a3688613e"
+  },
+  "hayk_sargsyan": {
+    "order": 3,
+    "featured": true,
+    "shortBio": "He stood at the origins of the Yula service, created and is building an infrastructure that will withstand the rapid growth and development of the product. In the beginning, one, and now with a small team of backenders, provides support for 200+ servers launched in just 3 years of the company's existence. Every day it solves the most complicated architectural problems and is happy to share its experience and IT skills. He has 14 years of experience in the industry.",
+    "company": "Yula",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2FHayk%20Sargsyan.jpg?alt=media&token=431eebec-e6fe-46b0-98c1-f14988a9670f",
+    "socials": [],
+    "name": "Hayk Sargsyan",
+    "country": "Moscow, Russia",
+    "bio": "He stood at the origins of the Yula service, created and is building an infrastructure that will withstand the rapid growth and development of the product. In the beginning, one, and now with a small team of backenders, provides support for 200+ servers launched in just 3 years of the company's existence. Every day it solves the most complicated architectural problems and is happy to share its experience and IT skills. He has 14 years of experience in the industry.",
+    "title": "CTO"
+  },
+  "lamoda_speaker": {
+    "socials": [
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/anya.kurnosova.9",
+        "icon": "facebook"
+      }
+    ],
+    "name": "Anna Kurnosova",
+    "country": "Moscow, Russia",
+    "bio": "Hi, I'm Anya. I graduated from MIIT as a designer-technologist of machine-building productions, worked in the specialty. Then I went to the organization of events - there were lectures on art history and were corporate events. And at some point I became interested in programming. And now I'm here at the junction of corporate culture and IT.",
+    "title": "IT Recruiter",
+    "order": 4,
+    "featured": false,
+    "shortBio": "Hi, I'm Anya. I graduated from MIIT as a designer-technologist of machine-building productions, worked in the specialty. Then I went to the organization of events - there were lectures on art history and were corporate events. And at some point I became interested in programming. And now I'm here at the junction of corporate culture and IT.",
+    "company": "Lamoda",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2Fann2_crop.jpg?alt=media&token=5f8751d2-c3db-4898-9381-047cd7487798"
+  },
+  "pavel_yurkin": {
+    "socials": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/pavel-yurkin/",
+        "icon": "linkedin"
+      }
+    ],
+    "name": "Pavel Yurkin",
+    "country": "Moscow, Russia",
+    "bio": "One of the first Java Developers in Leroy Merlin Russia. 6 years of professional development. Worked in creation of LMRU's Customer Tunnel and Offer Publication System. Smooth monolith killer.",
+    "title": "Java Software Developer",
+    "order": 5,
+    "featured": true,
+    "shortBio": "One of the first Java Developers in Leroy Merlin Russia. 6 years of professional development. Worked in creation of LMRU's Customer Tunnel and Offer Publication System. Smooth monolith killer.",
+    "company": "Leroy Merlin",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2FPavel%20Yurkin_crop.jpg?alt=media&token=77c99222-a4af-49e1-a044-90f8e7a823e0"
+  },
+  "tyumbit_speaker": {
+    "title": "Chief of the project department",
+    "order": 6,
+    "featured": true,
+    "shortBio": "He started his career as a sysadmin in 2003, later moved into the realm of business applications. Since 2006, he has been working with '1C: Enterprise' in various roles (as a developer, team lead, manager, etc) and has participated in projects of different scales. Having been involved in the creation of a critical regional system could not help but started to implement fancy new methods and approaches (agile, devops) in the conservative world of '1C'. Now, he leads a team of almost 60 it professionals responsible for 24*7 high-load system for 6000 concurrent users. The system is an unusual combination of notorious '1C' with lovely open-sources things.",
+    "company": "Tyumbit",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2FIvan_Skrobot.jpeg?alt=media&token=ea731579-7d4e-4403-9630-0eedeca8f856",
+    "socials": [
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/ivan-skrobot-8aba1244/",
+        "icon": "linkedin"
+      }
+    ],
+    "name": "Ivan Skrobot",
+    "country": "Tyumen, Russia",
+    "bio": "He started his career as a sysadmin in 2003, later moved into the realm of business applications. Since 2006, he has been working with '1C: Enterprise' in various roles (as a developer, team lead, manager, etc) and has participated in projects of different scales. Having been involved in the creation of a critical regional system could not help but started to implement fancy new methods and approaches (agile, devops) in the conservative world of '1C'. Now, he leads a team of almost 60 it professionals responsible for 24*7 high-load system for 6000 concurrent users. The system is an unusual combination of notorious '1C' with lovely open-sources things."
+  },
+  "vladimir_daron": {
     "shortBio": "",
     "company": "WebAnt",
     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2FVladimir%20Daron%202.jpg?alt=media&token=d7e22625-2079-423a-8191-7a6746e3609b",
     "socials": [],
     "name": "Vladimir Daron",
     "country": "Rostov-na-Donu, Russia",
-    "bio": ""
+    "bio": "",
+    "title": "CEO",
+    "order": 7,
+    "featured": true
   },
-  "tyumbit_speaker": {
-    "title": "",
-    "order": 3,
+  "vsevolod_grechaniuk": {
+    "socials": [
+      {
+        "link": "https://www.linkedin.com/in/redvg0/",
+        "icon": "linkedin",
+        "name": "LinkedIn"
+      }
+    ],
+    "name": "Vsevolod Grechaniuk",
+    "country": "Oslo, Norway",
+    "bio": "Straight from sunny Norway, I am always curious to know as well as to share what tech has to offer. Have been here and there, from working in investment banks to building startups, eventually ending up being cloud-savvy. Currently engaged with a Google premier partner to deliver cutting-edge cloud solutions to leading local players. Some of my current involvements are: bringing 500 containers to the cloud, building sophisticated AI-stack for the local agricultural giant.",
+    "title": "Data Engineer",
+    "order": 8,
     "featured": true,
-    "shortBio": "",
-    "company": "Tyumbit",
-    "photoUrl": "",
-    "socials": [],
-    "name": "Speaker from Tyumbit",
-    "country": "Tyumen, Russia",
-    "bio": ""
-  },
-  "lamoda_speaker": {
-    "title": "",
-    "order": 4,
-    "featured": true,
-    "shortBio": "",
-    "company": "Lamoda",
-    "photoUrl": "",
-    "socials": [],
-    "name": "Speaker from Lamoda",
-    "country": "Moscow, Russia",
-    "bio": ""
-  },
-  "hayk_sargsyan": {
-    "title": "CTO",
-    "order": 5,
-    "featured": true,
-    "shortBio": "",
-    "company": "Yula",
-    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2FHayk%20Sargsyan.jpg?alt=media&token=431eebec-e6fe-46b0-98c1-f14988a9670f",
-    "socials": [],
-    "name": "Hayk Sargsyan",
-    "country": "Moscow, Russia",
-    "bio": ""
+    "shortBio": "Straight from sunny Norway, I am always curious to know as well as to share what tech has to offer. Have been here and there, from working in investment banks to building startups, eventually ending up being cloud-savvy. Currently engaged with a Google premier partner to deliver cutting-edge cloud solutions to leading local players. Some of my current involvements are: bringing 500 containers to the cloud, building sophisticated AI-stack for the local agricultural giant.",
+    "company": "Avalon Solutions AB",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2Fvsevolod_grechaniuk.jpg?alt=media&token=d54ca96a-9f6a-4269-8b65-a3f85bd60124"
   },
   "wrike_speaker": {
     "title": "Dev manager",
-    "order": 6,
+    "order": 9,
     "featured": true,
-    "shortBio": "",
+    "shortBio": "Came from Langepas to St Petersburg. In one year started as a Quicksilver shop assistant and at the same time web developer with level minus one. Passionated about web, boards, smart people and some other weird stuff. Hating mainstream.",
     "company": "Wrike",
     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2Fwrike_speaker.jpeg?alt=media&token=faef8656-cc09-4bdc-8cd5-061e82a84e03",
     "socials": [],
-    "name": "Speaker from Wrike",
+    "name": "Sergey Chikirev",
     "country": "Saint Petersburg, Russia",
-    "bio": ""
+    "bio": "Came from Langepas to St Petersburg. In one year started as a Quicksilver shop assistant and at the same time web developer with level minus one. Passionated about web, boards, smart people and some other weird stuff. Hating mainstream."
+  },
+  "liudmila_mzhachikh": {
+    "name": "Liudmila Mzhachikh",
+    "title": "Head of frontend of project Mall.my.com",
+    "order": 10,
+    "featured": true,
+    "shortBio": "Head of the front-end development group of the Mall.my.com project at Mail.Ru Group. Speaker and organizer of IT-events. Organizer of the moscowcss community. Author of blogs on Medium and Instagram.",
+    "company": "Mail.ru",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/speakers%2FLyudmila_crop.jpg?alt=media&token=4fecca30-0ec5-41ae-88ad-121da87cdbe2",
+    "socials": [],
+    "country": "Moscow, Russia",
+    "bio": "Head of the front-end development group of the Mall.my.com project at Mail.Ru Group. Speaker and organizer of IT-events. Organizer of the moscowcss community. Author of blogs on Medium and Instagram."
   }
 }

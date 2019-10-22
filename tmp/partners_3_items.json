@@ -1,0 +1,14 @@
+{
+  "000": {
+    "logoUrl": "../images/logos/jetbrains.svg",
+    "order": 1,
+    "url": "https://www.jetbrains.com/",
+    "name": "JetBrains"
+  },
+  "001": {
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/partners%2Flogo_square.png?alt=media&token=a7b36d2a-ceb1-445c-918f-2892421decff",
+    "order": 0,
+    "url": "https://cascadepro.ru/",
+    "name": "Cascade Pro"
+  }
+}

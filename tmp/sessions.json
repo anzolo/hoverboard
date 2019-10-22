@@ -1,33 +1,35 @@
 {
   "101": {
-    "tags": ["Cloud", "Backend"],
-    "speakers": ["grigory_petrov"],
-    "title": "Python and Network: REST, JSON, GraphQL or gRPC?",
     "language": "Russian",
     "description": "Most Python applications start their network communication with REST. As the development progresses, the developer has to answer small but important questions: how to transfer date and time, large amounts of data, provide authorization and so on. Network communication in today's backend is a lot of competing protocols, standards and approaches. We have \"REST\", which each developer implements in its own way, there are overlapping JSON Schema and Open API, there is JSON API, GraphQL, gRPC and much more. In the speech I will talk about modern approaches of Python backend applications communication with each other and the frontend, what difficulties we are fighting against and what is now considered Pythonic.",
-    "complexity": "Intermediate"
+    "complexity": "Intermediate",
+    "tags": ["Cloud", "Backend"],
+    "speakers": ["grigory_petrov"],
+    "title": "Python and Network: REST, JSON, GraphQL or gRPC?"
   },
   "102": {
-    "description": "Get your badge, coffee, enjoy talking with tech edicts around",
     "icon": "registration",
-    "title": "Registration and welcome coffee"
+    "title": "Registration and welcome coffee",
+    "description": "Get your badge, coffee, enjoy talking with tech edicts around"
   },
   "103": {
     "title": "Keynote",
     "description": "Tech geek talk about non-tech thing"
   },
   "104": {
-    "tags": ["Android", "Mobile"],
+    "tags": ["Android", "Mobile", "Animations", "UI"],
     "speakers": ["alexander_smirnov"],
-    "title": "Topic will be soon...",
+    "title": "Android Animations in 2k19",
     "language": "Russian",
-    "description": "Loading... :)"
+    "description": "<p>Over the years, Android has accumulated a lot of different ways of working with animations, and over the past two years, approaches have changed dramatically, but not all of them are good in practice.</p><p>In the talk you will hear how to approach the choice of framework for building animations that would work with animations was easy to develop and use. We will definitely share our production experience with animations and look under the hood of each of the technologies.</p>",
+    "complexity": "Intermediate"
   },
   "105": {
+    "tags": ["Management"],
     "speakers": ["tyumbit_speaker"],
-    "title": "Topic will be soon...",
+    "title": "Software engineering practises and managerial approaches in 1C:Enterprise",
     "language": "Russian",
-    "description": "Loading... :)"
+    "description": "There are \"true IT\" and there are technologies that don't deserve to exist, right? No, I don't think so. Every technique, approach, language or framework is designed to solve specific real-world problems. Although '1C:Enterprise' platform is often considered to be cumbersome and bizarre, it is a perfect match for many business tasks. Sure, the platform and the entire '1C ecosystem' do have their weaknesses. During the presentation, I will discuss some of them, and then walk you through the project of implementation of some well-known IT approaches (namely agile and devops) in '1C', which enabled as to drastically increase the speed of development and the quality of our system."
   },
   "106": {
     "tags": ["Cloud", "DevOps"],
@@ -36,38 +38,70 @@
     "language": "Russian",
     "description": "Loading... :)"
   },
-  "107": {
-    "icon": "lunch",
-    "title": "Lunch",
-    "description": "Foooooooood!"
-  },
+  "107": { "icon": "lunch", "title": "Lunch", "description": "Foooooooood!" },
   "108": {
     "tags": ["Management", "HR"],
     "speakers": ["lamoda_speaker"],
-    "title": "Topic will be soon...",
+    "title": "Why am I, a technical specialist, interested in onboarding?",
     "language": "Russian",
-    "description": "Loading... :)"
+    "description": "<p>Most likely, I am the first person you meet in a new company - we meet on the first day and you ask all the questions that arise. I would love to tell all the nuances of our development process to all newcomers, but that would be wrong - and I will tell you why.</p> <p>The problems of adapting a technician - not only the environment, access and technology - are still shyness, fear, timidity and closeness. The socialization of a new employee in a company usually comes from the onboard department or hr, but these are not the people the developer will have to work with on a regular basis. That's why it's important to build a trusting and correct team relationship from the start. IT is a rather closed world, but its members can be offered to get acquainted with people from other departments, so that the employee will have a more holistic understanding of the company's objectives and structure. We have some interesting practices that I am ready to share - perhaps they will help to involve developers in the corporate life of the company, and the developers themselves will be given new useful acquaintances and will add interest in the development process.</p>"
   },
   "109": {
     "title": "We're looking for a speaker all over the world ;)",
     "description": "If you want to be a speaker fill the form (https://www.papercall.io/gdg-devfest-tyumen-2019)"
   },
   "110": {
-    "tags": ["Backend", "Database"],
+    "tags": ["Backend", "Database", "NoSQL"],
     "speakers": ["hayk_sargsyan"],
-    "title": "Topic will be soon...",
+    "title": "Stay alive. Large project on one NoSQL",
     "language": "Russian",
-    "description": "Loading... :)"
+    "description": "<p>Many people choose NoSQL-solutions when creating a startup for quick development in conditions of uncertainty, planning to switch to \"more serious\" SQL-based databases as the project grows.</p><p>Yula exists and quickly develops already within three years and still lives on NoSQL and consciously does not plan transition. This report will be useful to the developer who has heard about the stories of unreliability and complex support for NoSQL. By the story and concrete examples I will try to prove the opposite.</p><p>I will argue with specific examples of our choice of NoSQL and focus on the fact that over the three years of Yula's existence, we have never regretted this decision. It still helps us to develop quickly and painlessly for the current code state.</p>"
   },
   "111": {
-    "tags": ["Management"],
-    "speakers": ["wrike_speaker"],
-    "title": "How to lead leads",
+    "tags": ["Team lead", "Management", "Dev growth"],
     "language": "Russian",
-    "description": "Topic divided on four main steps of building the lead. Briefly describing those four steps. Step 1: To start with, who is the lead? Lead is a manager of tactical work; What are the human characteristics and skills required for lead; Important moment about nominating great developers to leads. Step 2: How to start working as a lead or “inauguration”. Building win-win strategy; Situational leadership as a way to lead for those who is newbie in that; Figuring out the scope of responsibility (the lead mission); Setup measurable test period. Step 3: The process of lead job or “moving”. 1:1; Keep on track; Three main points of contact to grow successful lead. Step 4: What do to next and how to grow. Skill matrix; Books; Feedback"
+    "description": "Topic divided on four main steps of building the lead. Briefly describing those four steps. Step 1: To start with, who is the lead? Lead is a manager of tactical work; What are the human characteristics and skills required for lead; Important moment about nominating great developers to leads. Step 2: How to start working as a lead or “inauguration”. Building win-win strategy; Situational leadership as a way to lead for those who is newbie in that; Figuring out the scope of responsibility (the lead mission); Setup measurable test period. Step 3: The process of lead job or “moving”. 1:1; Keep on track; Three main points of contact to grow successful lead. Step 4: What do to next and how to grow. Skill matrix; Books; Feedback",
+    "speakers": ["wrike_speaker"],
+    "title": "How to lead leads"
   },
   "112": {
-    "title": "Workshop",
-    "description": "If you can to lead the super-practice workshop, fill the form (https://www.papercall.io/gdg-devfest-tyumen-2019)"
+    "complexity": "Beginner",
+    "tags": ["Mobile", "Crossplatform", "workshop"],
+    "speakers": ["vsevolod_grechaniuk"],
+    "title": "Flutter speed coding",
+    "language": "Russian",
+    "description": "Building an app from a scratch within a few hours is no longer a dream. Get rid of html/css/js nightmare. Get native performance. Build cross platform. <br> We will speed code a fully-functional app while touching the following topics: flutter 101; how native?; 120fps is our speed limit; everything is a widget; responsive layout; build for mobile, for web, for desktop, for..; handy pubs; builders: stream, state, future, animated, widget-specific; state management: widget lifecycle, statefulbuilder, provider; animations: widget, vector, builder&listenable, tickerprovidermixin; futures; isolates and threading; platform channels; more handy pubs and where to move from now. <br> Key takeaway: start building your apps!"
+  },
+  "113": {
+    "title": "Cloud Composer: simplifying complex workflows with a powerful orchestrator on GCP",
+    "language": "Russian",
+    "description": "<p>Managing complex workflows can be cumbersome. That’s when Cloud Composer, managed Apache Airflow on Google Cloud Platform, comes handy. We will take a deep dive and see how you can orchestrate common workflows such as data pipelines, infrastructure automation and more.</p> <p> We’ll dive deep into what’s under the hood. Then unleash its immense power by looking at what it can do: * internals: celery, redis, GKE, GCS, SQL  * concepts: DAG, operator, workflow, operator, hook, xcom and more  * customizing: custom operators, custom sensors, custom deployment  * GCP perks: private IPs, VPC native, KubernetesPodOperator, Stackdriver  * use cases: CICD, infrastructure, ETL, ML workflow and complex data pipelines  * integrations: terraform, slack, etc </p>",
+    "complexity": "Intermediate",
+    "tags": ["Cloud"],
+    "speakers": ["vsevolod_grechaniuk"]
+  },
+  "114": {
+    "title": "From monolith to microservices. Rebuilding Leroy Merlin Russia Publication System.",
+    "language": "Russian",
+    "description": "Sometimes, to be able to face new world demands, whole IT systems need to be reconstructed. That was the case with our Publication System. We would like share our experience, take a look at technical details of our architecture, the problems that we've encountered and solutions that we've found.",
+    "complexity": "Intermediate",
+    "tags": ["microservices", "monolith", "Backend"],
+    "speakers": ["pavel_yurkin"]
+  },
+  "115": {
+    "title": "Introduction to MotionLayout",
+    "language": "Russian",
+    "description": "In workshop, we will learn how to use MotionLayout and try to reproduce the animation and behavior of all your favorite curtains from the Android Quick Settings menu",
+    "complexity": "Intermediate",
+    "tags": ["mobile", "android", "workshop"],
+    "speakers": ["alexander_smirnov"]
+  },
+  "116":{
+    "title": "CSS Chronicles",
+    "language": "Russian",
+    "description": "Since time immemorial, brave front-enders have used CSS to stylize web pages. But many people don't even know what other miracles it is capable of! I invite you to an amazing journey through the most interesting features of modern CSS, in which you will know the secret forces hidden in it, and make sure that you can create a real magic on CSS.",
+    "complexity": "Beginner",
+    "tags": ["Frontend", "CSS"],
+    "speakers": ["liudmila_mzhachikh"]
   }
 }

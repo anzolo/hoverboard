@@ -1,0 +1,32 @@
+{
+  "000": {
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/partners%2F%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB.png?alt=media&token=7eb264da-72fd-4858-8f37-dcf1da687132",
+    "order": 0,
+    "url": "https://arsplus.ru/",
+    "name": "Арсенал+"
+  },
+  "001": {
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/partners%2F%D0%91%D0%B8%D0%BB%D0%B0%D0%B8%CC%86%D0%BD.png?alt=media&token=6927621b-8c2f-4848-aae8-260b90b39f96",
+    "order": 1,
+    "url": "https://beeline.ru/",
+    "name": "Beeline"
+  },
+  "002": {
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/partners%2F%D0%BA%D0%B0%D1%81%D1%81%D0%B0%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B8%CC%86%D0%BD.png?alt=media&token=de820c3b-9ed0-49a0-ba9a-1058d02c08e7",
+    "order": 2,
+    "url": "http://tyumen.visatravel.bz/",
+    "name": "Виза Тревел"
+  },
+  "003": {
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/partners%2F%D0%A0%D0%BE%D1%81%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC.png?alt=media&token=ede5a5a8-ad6b-44e4-9891-a9d21193f1b2",
+    "order": 3,
+    "url": "https://www.rt.ru/",
+    "name": "Rostelecom"
+  },
+  "004": {
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/partners%2F%D1%81%D0%B5%D0%BE%D0%B2%D0%B8%D0%B2%D0%B0%D1%82.png?alt=media&token=1f75e162-0179-43bc-a93a-8e9751919067",
+    "order": 4,
+    "url": "https://seovivat.ru/",
+    "name": "SEOVivat"
+  }
+}

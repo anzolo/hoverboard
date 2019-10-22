@@ -1,1 +1,7 @@
-{"0":{"order":0,"title":"General partners"},"1":{"title":"Platinum partners","order":1},"2":{"title":"Gold partners","order":2},"3":{"order":3,"title":"Silver partners"},"4":{"order":4,"title":"Information partners"}}
+{
+  "0": { "order": 0, "title": "General partners" },
+  "1": { "title": "Platinum partners", "order": 1 },
+  "2": { "order": 2, "title": "Gold partners" },
+  "3": { "title": "Silver partners", "order": 3 },
+  "4": { "order": 4, "title": "Information partners" }
+}

@@ -1,0 +1,14 @@
+{
+  "000": {
+    "url": "https://www.sdvor.com",
+    "name": "Строительный Двор",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/partners%2F%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%202019-2.png?alt=media&token=b13c5566-61e2-4420-aebc-3d13d8c166ee",
+    "order": 0
+  },
+  "001": {
+    "url": "https://www.zapsibkombank.ru/",
+    "name": "\"ПАО «Запсибкомбанк\"",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-tmn.appspot.com/o/partners%2FLOGO_WSCB.jpg?alt=media&token=b8aa77eb-4d59-4722-8432-9d46b4b0108a",
+    "order": 1
+  }
+}

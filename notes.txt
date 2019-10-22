@@ -1,0 +1,15 @@
+npm run firestore:copy sessions ./tmp/sessions.json
+npm run firestore:copy speakers ./tmp/speakers.json
+npm run firestore:copy schedule ./tmp/schedule.json
+npm run firestore:copy partners ./tmp/partners.json
+npm run firestore:copy partners/2/items ./tmp/partners_2_items.json
+npm run firestore:copy partners/4/items ./tmp/partners_4_items.json
+npm run firestore:copy partners/5/items ./tmp/partners_5_items.json
+
+npm run firestore:copy ./tmp/sessions.json sessions
+npm run firestore:copy ./tmp/speakers.json speakers
+npm run firestore:copy ./tmp/schedule.json schedule
+npm run firestore:copy ./tmp/partners.json partners
+npm run firestore:copy ./tmp/partners_2_items.json partners/2/items
+npm run firestore:copy ./tmp/partners_4_items.json partners/4/items
+npm run firestore:copy ./tmp/partners_5_items.json partners/5/items
